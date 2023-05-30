@@ -1,4 +1,4 @@
-# ReinforcmentTetris
+# Learning to play Tetris with Deep Reinforcement Learning
 
 For better organization of the .py files they are split into folders
 
