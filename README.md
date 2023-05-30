@@ -1,8 +1,6 @@
 # Learning to play Tetris with Deep Reinforcement Learning
 
-For better organization of the .py files they are split into folders
-
-Variation Names and what is exactly used in each case, is hopefully explained thoroughly in the Dissertation Document :) 
+### Variation Names and what is exactly used in each case, is hopefully explained thoroughly in the Dissertation Document :) 
 
 The main environment use was tetrisActions.py
 The main folder used was Variation B agents
