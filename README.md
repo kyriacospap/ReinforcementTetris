@@ -1,7 +1,5 @@
 # Learning to play Tetris with Deep Reinforcement Learning
 
-Variation Names and what is exactly used in each case, is hopefully explained thoroughly in the Dissertation Document 😄
-
 The main environment use was tetrisActions.py
 
 The main folder used was Variation B agents.
@@ -19,3 +17,8 @@ Training ,evaluation plots and video generation are all in the notebook file.
 The notebook file creates the repository and selects any of the agents based on the parameters you want to use.
 
 For example by running the main.py in the folder "demo run" can replicate the training of the best performing agent.
+
+Notes:
+- Variation Names and what is exactly used in each case, is hopefully explained thoroughly in the Dissertation Document 😄
+- To see some videos of how the agents played the game, click the link in the appendix of the dissertation document.
+- No pre-Trained agents models are included in this repository.
