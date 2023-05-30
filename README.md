@@ -3,7 +3,8 @@
 Variation Names and what is exactly used in each case, is hopefully explained thoroughly in the Dissertation Document 😄
 
 The main environment use was tetrisActions.py
-The main folder used was Variation B agents
+
+The main folder used was Variation B agents.
 
 Variation A and C make use of the tetris.py file and tetrisb.py which correspond to the full and small board respectively.
 
